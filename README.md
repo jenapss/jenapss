@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am Jelaleddin or Jelal for short. 
+I am a Data Scientist. Currently I am working at SINA.AI as a medical Data Scientist. In addition to that I write article on topic of Machine Learning, check my blog - jelal.medium.com
 
 - 🔭 I’m currently working on our AI startup project called SINA.AI(see our fancy website sinaai.herokuapp.com)
 - 🌱 I’m currently learning and practicing Machine Learning and AI in general
