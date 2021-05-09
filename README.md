@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-#  Data Scientist. 
-## Jelal Sultanov
+#  I am Jelal, a Data Scientist. 
+
 
 Currently I am working at SINA.AI as a medical Data Scientist. In addition to that I write article on topic of Machine Learning, check my blog - jelal.medium.com
 
