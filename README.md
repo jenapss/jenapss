@@ -3,6 +3,7 @@
 
 
 ![Jelal](https://github.com/jenapss/jenapss/blob/main/jelalgit.gif?raw=true)
+## I am proficient at Machine Learning and DevOps domains.
 
 ## Learn more about me here
 
